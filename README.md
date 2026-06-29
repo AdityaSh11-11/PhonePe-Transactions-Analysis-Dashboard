@@ -17,11 +17,11 @@ The **PhonePe Transaction Insights Dashboard** helps visualize key transaction m
 Example:
 
 
-![Dashboard Preview](Preview_Images/Dashboard (1).png)
-![Dashboard Preview](Preview_Images/Dashboard (2).png)
-![Dashboard Preview](Preview_Images/Dashboard (3).png)
-![Dashboard Preview](Preview_Images/Dashboard (4).png)
-![Dashboard Preview](Preview_Images/Dashboard (5).png)
+![Dashboard Overview](Preview_Images/Dashboard%20(1).png)
+![Dashboard Overview](Preview_Images/Dashboard%20(2).png)
+![Dashboard Overview](Preview_Images/Dashboard%20(3).png)
+![Dashboard Overview](Preview_Images/Dashboard%20(4).png)
+![Dashboard Overview](Preview_Images/Dashboard%20(5).png)
 
 
 Or simply upload your screenshot and replace the path above.
