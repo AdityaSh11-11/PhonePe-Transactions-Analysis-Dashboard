@@ -140,7 +140,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 **Let's Connect**
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+- LinkedIn: https://www.linkedin.com/in/sharma11aditya/
 - GitHub: https://github.com/AdityaSh11-11
 
 ---
