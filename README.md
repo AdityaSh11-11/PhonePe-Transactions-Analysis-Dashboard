@@ -12,8 +12,6 @@ The **PhonePe Transaction Insights Dashboard** helps visualize key transaction m
 
 ## Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
 Example:
 
 
@@ -22,9 +20,6 @@ Example:
 ![Dashboard Overview](Preview_Images/Dashboard%20(3).png)
 ![Dashboard Overview](Preview_Images/Dashboard%20(4).png)
 ![Dashboard Overview](Preview_Images/Dashboard%20(5).png)
-
-
-Or simply upload your screenshot and replace the path above.
 
 ---
 
@@ -93,22 +88,14 @@ Or simply upload your screenshot and replace the path above.
 ```
 PhonePe-Transaction-Insights/
 │
-├── Dashboard.pbix
-├── Dataset/
-│   └── PhonePe_Data.xlsx
-├── Images/
-│   └── Dashboard.png
+├── phonepe.pbix
+├── Preview_Images/
+│    └──Dashboard (1).png
+│    └──Dashboard (2).png
+│    └──Dashboard (3).png
+│    └──Dashboard (4).png
+│    └──Dashboard (5).png    
 ├── README.md
-```
-
----
-
-## Dashboard Snapshot
-
-*(Upload your dashboard image in the Images folder and replace the path.)*
-
-```markdown
-![PhonePe Dashboard](Images/Dashboard.png)
 ```
 
 ---
